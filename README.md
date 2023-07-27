@@ -1,0 +1,2 @@
+# mfe-root
+Microfrontend root
